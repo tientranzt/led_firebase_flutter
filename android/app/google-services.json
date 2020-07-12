@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971362977717",
+    "firebase_url": "https://led-color-d0ced.firebaseio.com",
+    "project_id": "led-color-d0ced",
+    "storage_bucket": "led-color-d0ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971362977717:android:7a90c39c2858a039957bfc",
+        "android_client_info": {
+          "package_name": "tientranzt.github.io.ledcolorfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971362977717-8ea3msk81ul6c22jpkhi6l2olmiso7l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhka_m4UKMjl0U26O9PODXBdAUAI_8zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971362977717-8ea3msk81ul6c22jpkhi6l2olmiso7l8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971362977717-h4gbpdkpsb5f184u4vbgje69vm1oj3ij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tientranzt.github.io.ledcolorfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
